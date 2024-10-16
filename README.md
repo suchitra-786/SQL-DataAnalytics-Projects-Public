@@ -14,4 +14,5 @@ PgAdmin4
 
 Schema- Music Store Database
 ____________________________________________________________________________
-![213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3](https://github.com/user-attachments/assets/c7a4bb2f-73e8-463c-9b8e-80ec3321d162)
+
+![213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3](https://github.com/user-attachments/assets/60d68762-2719-466e-b428-da159730e863)
